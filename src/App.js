@@ -68,7 +68,7 @@ class App extends Component {
             Looking for my first position in the field.
             </StyledText>
             <StyledText>
-            Find me on:
+            Send me an email audgunnars@gmail.com or find me on:
             </StyledText>
             <Action>
               <Button href='https://www.linkedin.com/in/au%C3%B0ur-gunnarsd%C3%B3ttir-5310a7164/'>LinkedIn</Button>
