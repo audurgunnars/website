@@ -1,7 +1,7 @@
 {
   "name": "website",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "private": false,
   "homepage": "http://audurgunnars.com",
   "dependencies": {
     "react": "^16.6.3",
