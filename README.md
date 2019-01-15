@@ -1,1 +1,1 @@
-[Website](https://audurgunnars.github.io/website/)
+[Website](https://audurgunnars.com/)
