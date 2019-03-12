@@ -64,8 +64,7 @@ class App extends Component {
         </Head>
         <Main>
           <Item>
-            <StyledText>Berlin-based Mechanical Engineer that recently turned JavaScript/React.js developer. <br />
-            Looking for my first position in the field.
+            <StyledText>Berlin-based Mechanical Engineer that turned JavaScript/React.js developer.
             </StyledText>
             <StyledText>
             Send me an email audgunnars@gmail.com or find me on:
