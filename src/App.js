@@ -64,8 +64,12 @@ class App extends Component {
         </Head>
         <Main>
           <Item>
+<<<<<<< HEAD
             <StyledText>Berlin-based Mechanical Engineer that turned JavaScript/React.js developer. <br />
             Currently working as a front-end engineer for a legal-tech start-up .
+=======
+            <StyledText>Berlin-based Mechanical Engineer that turned JavaScript/React.js developer.
+>>>>>>> 6b4e02a6bce975ad4f27c87140f3a0cfbca77db7
             </StyledText>
             <StyledText>
             Send me an email audgunnars@gmail.com or find me on:
