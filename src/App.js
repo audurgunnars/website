@@ -48,7 +48,7 @@ const Item = styled.div`
 `
 const Action = styled.div`
   display: flex;
-  @media (max-width:800px) {  
+  @media (max-width:800px) {
     justify-content: center;
   }
 `
@@ -64,8 +64,8 @@ class App extends Component {
         </Head>
         <Main>
           <Item>
-            <StyledText>Berlin-based Mechanical Engineer that recently turned JavaScript/React.js developer. <br />
-            Looking for my first position in the field.
+            <StyledText>Berlin-based Mechanical Engineer that turned JavaScript/React.js developer. <br />
+            Currently working as a front-end engineer for a legal-tech start-up .
             </StyledText>
             <StyledText>
             Send me an email audgunnars@gmail.com or find me on:
